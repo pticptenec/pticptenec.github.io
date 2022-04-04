@@ -1,0 +1,5 @@
+So you Go developer, right?
+===========================
+
+It's a stub for future blog post for go concurrency.
+lorem.

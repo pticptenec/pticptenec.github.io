@@ -1,0 +1,9 @@
+Blog
+====
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+   :caption: Contents:
+
+   1-so-you-go-dev-right.rst

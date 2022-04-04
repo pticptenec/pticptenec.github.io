@@ -1,0 +1,59 @@
+.. about-page documentation master file, created by
+   sphinx-quickstart on Mon Apr  4 19:19:41 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to pticptenec's about page
+==================================
+Hello, I'm Ptic! Here you can find some short info about me
+and my posts (hope they will be soon) and writings.
+
+Languages
+^^^^^^^^^
+Python
+   my main language, great and joyful tool, know few tricks & some internals.
+Go
+   currently learning. If I had to choose static typed language,
+   I would choose Go (I don't know Haskell yet). Although duck typing in Go
+   is confusing.
+JavaScript & CSS
+   did some projects, still don't understand the way it is.
+SQL
+   vendor agnostic features, did complex (recursive) queries.
+Java & C
+   did some projects in the past.
+
+Tools
+^^^^^
+Unix&Bash, Flask, Django, Sqlalchemy, Pytest, Celery, Gin, React, Vue,
+Nginx, Docker, RabbitMQ, Redis, PostgreSQL.
+
+Used to had experience with:
+Node.js, MongoDB, MSSQL, NumPy, Pandas. 
+
+My current area of work
+^^^^^^^^^^^^^^^^^^^^^^^
+Enterprise applications, testing, quality.
+
+Looking forward to explore
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+Extreme Programming, Domain Driven Design, efficient code.
+Maybe cryptography/Haskell/math related topics.
+
+My writings
+===========
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+   
+
+   blog/index
+   writings/index
+
+
+Index & Search
+==============
+
+* :ref:`genindex`
+* :ref:`search`

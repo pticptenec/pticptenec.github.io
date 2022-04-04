@@ -1,0 +1,9 @@
+Writings
+========
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+   :caption: Contents:
+
+   what-bird-saw-in-other-lands.rst
